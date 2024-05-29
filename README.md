@@ -1,16 +1,13 @@
-## Hi there 👋
+### boas vinda ao perfil 💙
+meu nome e francisco vinicius
 
-<!--
-**mtxis/mtxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando no alura
+- estou me desenvolvendo na linguagem javaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- ### voce pode entrar em contato comigo 📪
+  
+ 00001113156569sp@al.educacao.sp.gov.br
+ 
+ @zaza.qtz
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
